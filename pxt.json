@@ -1,0 +1,24 @@
+{
+    "name": "Light sensor",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "BH1750": "github:makecode-extensions/bh1750#v1.2.0",
+        "smarthome-kit": "github:tinkertanker/pxt-smarthome#v1.0.8"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
