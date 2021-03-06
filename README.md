@@ -1,5 +1,6 @@
 
 > Open this page at [https://waqasali47.github.io/light-sensor/](https://waqasali47.github.io/light-sensor/)
+> 
 
 ## Use as Extension
 
